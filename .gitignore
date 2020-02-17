@@ -440,3 +440,4 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+src/GISearch/menu_3.0.xml
